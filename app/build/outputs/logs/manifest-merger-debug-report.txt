@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Github\MyProject\SystemCamera\TestSystemCamera\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from G:\Github\MyProject\SystemCamera\TestSystemCamera\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from G:\Github\MyProject\SystemCamera\TestSystemCamera\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Github\MyProject\SystemCamera\TestSystemCamera\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\Github\MyProject\SystemCamera\TestSystemCamera\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Github\MyProject\SystemCamera\TestSystemCamera\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Github\MyProject\SystemCamera\TestSystemCamera\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from G:\Github\MyProject\SystemCamera\TestSystemCamera\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Github\MyProject\SystemCamera\TestSystemCamera\app\src\main\AndroidManifest.xml
+application
+ADDED from G:\Github\MyProject\SystemCamera\TestSystemCamera\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Arno\.android\build-cache\c116425113a40622e5c8c0a194a062d51faed1b8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Arno\.android\build-cache\91dd37ba8cf62b20b21e222ac6a21abba9133f12\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Arno\.android\build-cache\c40ffacd8a98a3f59bcb4d2f98d7e6e8a14d88bb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Arno\.android\build-cache\e64df5b703449524e384633d838d2668a77b2f62\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Arno\.android\build-cache\2688e500847111bdc9365ef752ba65a83d57c826\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Arno\.android\build-cache\7d4ef1d3438381754a34b52d68f2034cf4b538df\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Arno\.android\build-cache\0510e394fab55eb3eb303f44c179ccac44dce41b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Arno\.android\build-cache\f4f823aa6691d2bb01279d657721b40e91dca84c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Arno\.android\build-cache\f6c86c8c9fcdbb4b5b21e8767cf0a35740f06c77\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Arno\.android\build-cache\bde319e9f3709cb8cd33c039393617d2d638e5ed\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from G:\Github\MyProject\SystemCamera\TestSystemCamera\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from G:\Github\MyProject\SystemCamera\TestSystemCamera\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from G:\Github\MyProject\SystemCamera\TestSystemCamera\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from G:\Github\MyProject\SystemCamera\TestSystemCamera\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from G:\Github\MyProject\SystemCamera\TestSystemCamera\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from G:\Github\MyProject\SystemCamera\TestSystemCamera\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.arno.testsystemcamera.MainActivity
+ADDED from G:\Github\MyProject\SystemCamera\TestSystemCamera\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from G:\Github\MyProject\SystemCamera\TestSystemCamera\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\Github\MyProject\SystemCamera\TestSystemCamera\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from G:\Github\MyProject\SystemCamera\TestSystemCamera\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from G:\Github\MyProject\SystemCamera\TestSystemCamera\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\Github\MyProject\SystemCamera\TestSystemCamera\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from G:\Github\MyProject\SystemCamera\TestSystemCamera\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from G:\Github\MyProject\SystemCamera\TestSystemCamera\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Arno\.android\build-cache\c116425113a40622e5c8c0a194a062d51faed1b8\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Arno\.android\build-cache\91dd37ba8cf62b20b21e222ac6a21abba9133f12\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Arno\.android\build-cache\c40ffacd8a98a3f59bcb4d2f98d7e6e8a14d88bb\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Arno\.android\build-cache\e64df5b703449524e384633d838d2668a77b2f62\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Arno\.android\build-cache\2688e500847111bdc9365ef752ba65a83d57c826\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Arno\.android\build-cache\7d4ef1d3438381754a34b52d68f2034cf4b538df\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Arno\.android\build-cache\0510e394fab55eb3eb303f44c179ccac44dce41b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Arno\.android\build-cache\f4f823aa6691d2bb01279d657721b40e91dca84c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Arno\.android\build-cache\f6c86c8c9fcdbb4b5b21e8767cf0a35740f06c77\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Arno\.android\build-cache\bde319e9f3709cb8cd33c039393617d2d638e5ed\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Arno\.android\build-cache\c116425113a40622e5c8c0a194a062d51faed1b8\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from G:\Github\MyProject\SystemCamera\TestSystemCamera\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Github\MyProject\SystemCamera\TestSystemCamera\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\Github\MyProject\SystemCamera\TestSystemCamera\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Github\MyProject\SystemCamera\TestSystemCamera\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Arno\.android\build-cache\c116425113a40622e5c8c0a194a062d51faed1b8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Arno\.android\build-cache\91dd37ba8cf62b20b21e222ac6a21abba9133f12\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Arno\.android\build-cache\c40ffacd8a98a3f59bcb4d2f98d7e6e8a14d88bb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Arno\.android\build-cache\e64df5b703449524e384633d838d2668a77b2f62\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Arno\.android\build-cache\2688e500847111bdc9365ef752ba65a83d57c826\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Arno\.android\build-cache\7d4ef1d3438381754a34b52d68f2034cf4b538df\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Arno\.android\build-cache\0510e394fab55eb3eb303f44c179ccac44dce41b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Arno\.android\build-cache\f4f823aa6691d2bb01279d657721b40e91dca84c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Arno\.android\build-cache\f6c86c8c9fcdbb4b5b21e8767cf0a35740f06c77\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Arno\.android\build-cache\c116425113a40622e5c8c0a194a062d51faed1b8\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Arno\.android\build-cache\c116425113a40622e5c8c0a194a062d51faed1b8\output\AndroidManifest.xml:26:9-47
